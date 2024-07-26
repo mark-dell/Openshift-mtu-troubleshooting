@@ -1,5 +1,5 @@
 
-![[Pasted image 20240726134741.png]]
+![](./block-diagram.png)
 
 #### Lets test to see what the maxium MTU allowed by the NIC in bond0
 
